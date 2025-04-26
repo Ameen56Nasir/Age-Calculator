@@ -1,0 +1,8 @@
+@media (max-width: 600px) {
+    .result p{
+        justify-self: center;
+        margin-top: 10px;
+        font-size: 20px;
+        font-weight: 700;
+    }
+}
